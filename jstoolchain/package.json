@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "build": "postcss css/tailwind.css -o ../pollster/static/css/tailwind-output.css"
+    },
+    "dependencies": {
+        "autoprefixer": "^10.0.2",
+        "postcss": "^8.1.9",
+        "postcss-cli": "^8.3.0",
+        "tailwindcss": "^2.0.1"
+    }
+}

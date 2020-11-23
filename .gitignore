@@ -1,3 +1,6 @@
+### Js Toolchain
+node_modules
+
 ### Django ###
 *.log
 *.pot
